@@ -217,10 +217,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Data files (if large)
-data/raw/*.xlsx
-data/raw/*.xls
-
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb_checkpoints
